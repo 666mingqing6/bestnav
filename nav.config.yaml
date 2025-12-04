@@ -25,7 +25,7 @@ imageRepoUrl: 'https://github.com/666mingqing6/imges?branch=main'
 hashMode: false
 
 # 一旦填写认为你是自有部署，Fork 不要填写
-address: ''
+address: 'mingqing'
 
 # 自有部署后台登录密码
 password: admin
